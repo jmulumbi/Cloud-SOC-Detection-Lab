@@ -1,7 +1,5 @@
 <h1>Cloud SOC Detection Lab</h1>
 
-### [YouTube Demonstration](#) <!-- Add your link when ready -->
-
 <h2>Description</h2>
 Built a virtual Security Operations Center (SOC) on Microsoft Azure by deploying a publicly exposed honeypot VM 
 to attract and capture real-world attack traffic. Configured log ingestion into a Log Analytics Workspace and 
